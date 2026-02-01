@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.47250f22.css",
-    "main.js": "/static/js/main.61c4b5e5.js",
-    "static/js/460.8cd0d420.chunk.js": "/static/js/460.8cd0d420.chunk.js",
-    "static/js/453.5c0b26b3.chunk.js": "/static/js/453.5c0b26b3.chunk.js",
+    "main.css": "/static/css/main.0794dc1f.css",
+    "main.js": "/static/js/main.17effa60.js",
+    "static/js/962.3b14cc99.chunk.js": "/static/js/962.3b14cc99.chunk.js",
+    "static/js/206.6ba80bed.chunk.js": "/static/js/206.6ba80bed.chunk.js",
     "static/media/brand-icons.svg": "/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/static/media/icons.62d9dae4e0040e81c980.svg",
     "static/media/NotoSans-Bold.woff2": "/static/media/NotoSans-Bold.a2b8ed27e25e7116ab30.woff2",
@@ -27,14 +27,10 @@
     "static/media/subscribe.svg": "/static/media/subscribe.bc772102ea68cf9808f43304799e70dc.svg",
     "static/media/follow.svg": "/static/media/follow.04d35b576fce364b9d212db693b303cd.svg",
     "static/media/up.svg": "/static/media/up.4de0610b9692c03dc4003d272b5da4a8.svg",
-    "static/media/YouTubeIcon.svg": "/static/media/YouTubeIcon.d952d46815b175089d7f.svg",
-    "main.47250f22.css.map": "/static/css/main.47250f22.css.map",
-    "main.61c4b5e5.js.map": "/static/js/main.61c4b5e5.js.map",
-    "460.8cd0d420.chunk.js.map": "/static/js/460.8cd0d420.chunk.js.map",
-    "453.5c0b26b3.chunk.js.map": "/static/js/453.5c0b26b3.chunk.js.map"
+    "static/media/YouTubeIcon.svg": "/static/media/YouTubeIcon.d952d46815b175089d7f.svg"
   },
   "entrypoints": [
-    "static/css/main.47250f22.css",
-    "static/js/main.61c4b5e5.js"
+    "static/css/main.0794dc1f.css",
+    "static/js/main.17effa60.js"
   ]
 }
