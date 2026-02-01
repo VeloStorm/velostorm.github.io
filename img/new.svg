@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="125">
+<g>
+  <polygon points="0,62.5, 62.5,0, 125,0 0,125" fill="red"/>
+</g>
+<g>
+  <text x="-35" y="77" font-size="32"  transform="rotate(-45)" stroke="#fff" fill="#fff" >
+    <tspan>NEW</tspan>
+  </text>
+</g>
+</svg>

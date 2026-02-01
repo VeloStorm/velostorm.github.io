@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soonigroup.vercel.app/sitemap.xml
