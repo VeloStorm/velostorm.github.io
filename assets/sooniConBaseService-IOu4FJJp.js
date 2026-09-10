@@ -1,1 +1,0 @@
-import{j as a}from"./index-C8UGnbDl.js";async function e(n=[]){return(await a.post("/admin/sooniConBase/saveAll",n)).data}async function t(n={}){return(await a.get("/admin/sooniConBase/findAll",{params:n})).data}async function i(n=[]){return(await a.post("/admin/sooniConBase/deleteAll",n)).data}export{i as d,t as f,e as s};
