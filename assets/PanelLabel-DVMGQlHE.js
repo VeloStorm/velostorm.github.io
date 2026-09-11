@@ -1,1 +1,0 @@
-import{z as r,j as o,T as s}from"./vendor-ui-IeDDsE6s.js";function p({children:t,sx:e}){const{palette:a}=r();return o.jsx(s,{variant:"caption",sx:{fontWeight:700,color:a.mode==="light"?"text.secondary":"text.primary",mb:.6,mt:.4,display:"block",letterSpacing:1.2,fontSize:"0.65rem",textTransform:"uppercase",...e},children:t})}export{p as P};

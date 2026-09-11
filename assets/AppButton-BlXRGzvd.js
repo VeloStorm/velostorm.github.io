@@ -1,0 +1,1 @@
+import{j as n,s as e}from"./vendor-ui-BZzd5fmo.js";function s({sx:o,...t}){return n.jsx(e,{size:"small",sx:{minHeight:34,borderRadius:.5,fontSize:12,fontWeight:800,letterSpacing:0,textTransform:"none",boxShadow:"none","&:hover":{boxShadow:"none"},...o},...t})}export{s as A};
